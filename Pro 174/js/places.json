@@ -1,0 +1,15 @@
+{    
+  "0": {
+    "barcode_value":0,
+    "model_name": "base",
+    "model_url": "#", 
+    "position": {"x":0,"y":0,"z":0},
+    "rotation": { "x": 0, "y": -90, "z": 0 },
+    "scale": { "x": 1, "y": 1, "z": 1 },
+"width":34,
+"color":"#340099",
+"height":45
+  }
+
+}
+ 
